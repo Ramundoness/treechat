@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "907128312750",
+    "firebase_url": "https://treechat-8d5a2.firebaseio.com",
+    "project_id": "treechat-8d5a2",
+    "storage_bucket": "treechat-8d5a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907128312750:android:ede46970f86588cc",
+        "android_client_info": {
+          "package_name": "com.example.raymondyao.cs193a_hw7_kyguo_ryao28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907128312750-fts1fivst3gk8cdoho7um0r0tllun6kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD5nvQIclM3CMoVdNMbd1ltUuvpHr0dWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
